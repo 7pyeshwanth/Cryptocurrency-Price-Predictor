@@ -153,8 +153,8 @@ if __name__ == "__main__":
 
   data = predict(coin, no_days)
 
-  if np.random.choice([True, False], size=1)[0]:
-    st.balloons()
-  else:
-    st.snow()
-  st.divider()
+  # if np.random.choice([True, False], size=1)[0]:
+  #   st.balloons()
+  # else:
+  #   st.snow()
+  # st.divider()

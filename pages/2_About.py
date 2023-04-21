@@ -43,7 +43,7 @@ The "Cryptocurrency Prediction using LSTM Neural Network" project aims to provid
 - Pandas
 ---
 ''')
-if np.random.choice([True, False], size=1)[0]:
-    st.balloons()
-else:
-    st.snow()
+# if np.random.choice([True, False], size=1)[0]:
+#     st.balloons()
+# else:
+#     st.snow()

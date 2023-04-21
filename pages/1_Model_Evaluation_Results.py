@@ -21,7 +21,7 @@ with st.spinner("Loading Data"):
     st.plotly_chart(fig, use_container_width=True)
     st.divider()
   progress_bar.empty()
-  if np.random.choice([True, False], size=1)[0]:
-      st.balloons()
-  else:
-      st.snow()
+  # if np.random.choice([True, False], size=1)[0]:
+  #     st.balloons()
+  # else:
+  #     st.snow()
